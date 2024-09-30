@@ -9,6 +9,7 @@ environment:
 dependencies:
   another_transformer_page_view: ^2.0.1
   carousel_slider: ^4.2.1
+  provider: ^6.1.2
   flutter:
     sdk: flutter
   vector_math: ^2.1.4
